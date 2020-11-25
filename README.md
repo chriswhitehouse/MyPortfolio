@@ -5,6 +5,8 @@ It includes examples of my work, challenges completed, and the processes I have 
 
 Click through to any of the Week.md links for more detail.
 
+More detail can be found on my trello planner [here](https://trello.com/b/6YJQIzjQ/makers-progress)
+
 ---
 
 ## My Goals
