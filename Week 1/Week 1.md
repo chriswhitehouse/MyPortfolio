@@ -16,9 +16,9 @@ By the end of the week all developers can:
 ### Evidence:
 1.
 
-* Wrote up learning from TDD Process Workshop
-* The Four Phases of a Test
-* Three Rules of TDD
+* Wrote up learning from [TDD Process Workshop](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/TDD%20Process.md)
+* [The Four Phases of a Test](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/The%20Four%20Phases%20of%20a%20Test.md)
+* [Three Rules of TDD](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/Three%20Rules%20of%20TDD.md)
 * Completed [Design_Strategies_1 Exercises](https://github.com/chriswhitehouse/design_strategies_1)
 * Accidental attendance at Process Workshop completing [Leap Years](https://github.com/chriswhitehouse/leap_years), with video recording [Here](https://drive.google.com/file/d/1sXwftUTiVFtdCwSNphrY9j4fTtPVTzNu/view?usp=sharing), and feedback provided by course coach.
 
@@ -29,11 +29,11 @@ By the end of the week all developers can:
 
 3.
 
-* Wrote up learning from Debugging Workshop
+* [Wrote up learning from Debugging Workshop](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/Debugging%201.md)
 
 4.
 
-* Wrote up learning from Encapsulation reading
+* Wrote up learning from [Encapsulation reading](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/Definition%20of%20Encapsulation.md)
 * Worked through [OOC, Encapsulation and Cohesion Exercises](https://github.com/chriswhitehouse/OOD_Encapsulation_and_Cohesion)
 
 ## Reflection
