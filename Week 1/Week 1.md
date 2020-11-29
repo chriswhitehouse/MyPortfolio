@@ -10,7 +10,7 @@ By the end of the week all developers can:
 ### Plans to achieve
 1. Attend TDD Workshop: The TDD Process, Read Intro to TDD Resources, work through TDD exercise 'Design Strategies'
 2. Pair program every afternoon on the Boris Bike challenge.
-3. Follow and effective debugging process: attend Debugging workshop.
+3. Attend Debugging workshop.
 4. Read Object Oriented resources, and work through OOD Encapsulation and Cohesion exercises
 
 ### Evidence:
@@ -21,6 +21,7 @@ By the end of the week all developers can:
 * [Three Rules of TDD](https://github.com/chriswhitehouse/MyPortfolio/blob/main/Week%201/Three%20Rules%20of%20TDD.md)
 * Completed [Design_Strategies_1 Exercises](https://github.com/chriswhitehouse/design_strategies_1)
 * Accidental attendance at Process Workshop completing [Leap Years](https://github.com/chriswhitehouse/leap_years), with video recording [Here](https://drive.google.com/file/d/1sXwftUTiVFtdCwSNphrY9j4fTtPVTzNu/view?usp=sharing), and feedback provided by course coach.
+* Completed [Airport Challenge](https://github.com/makersacademy/airport_challenge)
 
 2.
 
