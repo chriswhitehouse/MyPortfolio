@@ -14,24 +14,24 @@ By the end of the week all developers can:
 4. Read Object Oriented resources, and work through OOD Encapsulation and Cohesion exercises
 
 ### Evidence:
-1. Test-drive a simple program using objects and methods
+1. **Test-drive a simple program using objects and methods**
 
 * Wrote up learning from TDD Process Workshop, Four Phases of a Test, and Three Rules of TDD in [Trello](https://trello.com/c/r4ncyeZj)
 * Completed [Design_Strategies_1 Exercises](https://github.com/chriswhitehouse/design_strategies_1). Practice Red-Green-Refactor
 * Accidental attendance at Process Workshop completing [Leap Years](https://github.com/chriswhitehouse/leap_years), with video recording [Here](https://drive.google.com/file/d/1sXwftUTiVFtdCwSNphrY9j4fTtPVTzNu/view?usp=sharing), and feedback provided by course coach.
 * Completed [Airport Challenge](https://github.com/makersacademy/airport_challenge). Full test driven development of a simple program using objects and methods.
 
-2. Pair using the driver-navigator style
+2. **Pair using the driver-navigator style**
 
 * Worked through to step 15 on the [Boris Bike Challenge](https://github.com/chriswhitehouse/boris-bike-3) Worked with 4 different pairing partners over 4 days.
 * Sought feedback through a google form. [Results Here](https://docs.google.com/spreadsheets/d/1tekoYukeMELTtP4mBrUuBe1rnsvwyWjXgXuRCTW567M/edit#gid=1968678069). With positive responses all round
 * Trello Write Up: [Pairing](https://trello.com/c/ceIzwivZ)
 
-3. Follow an effective debugging process
+3. **Follow an effective debugging process**
 
-* Trello Write Up of learning from Debuggin Workshop: [Debugging](https://trello.com/c/mTRMwlze)
+* Trello Write Up of learning from Debugging Workshop: [Debugging](https://trello.com/c/mTRMwlze)
 
-4. Describe some basic OO principles like encapsulation, SRP
+4. **Describe some basic OO principles like encapsulation, SRP**
 
 * Worked through [OOC, Encapsulation and Cohesion Exercises](https://github.com/chriswhitehouse/OOD_Encapsulation_and_Cohesion) Test drive a simple program with Single Responsibility Principle for each method.
 * Trello Write Up: [OOD](https://trello.com/c/BOAuBTXP)
