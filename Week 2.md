@@ -32,6 +32,7 @@ By the end of the week all developers can:
 
 * Completed [OO Testing with Mocking Practical](https://github.com/chriswhitehouse/testing_relationships_between_classes/tree/main). Learning how to use doubles to 'mock' the behaviour of a class.
 * Completed [Dependency Injection Practical](https://github.com/chriswhitehouse/dependency_injection/tree/main); learning how to set up a 'soft dependency' within and class, and pass doubles through to the class for testing.
+* Completed [Takeaway Challenge](https://github.com/chriswhitehouse/takeaway-challenge). Full test driven development of a simple takeaway app, with several classes, and isolation of tests with the use of mocking.
 * Trello Write Up: [Mocking](https://trello.com/c/pSXu0TWe)
 
 4. **Explain some basic OO principles and tie them to high level concerns (e.g. * ease of change)**
