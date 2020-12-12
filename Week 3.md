@@ -41,10 +41,10 @@ By the end of the week all developers can:
 
 ### Q1: Did you meet all of your goals to the standard you set at the start of the week?
 
-* Yes. With Battle, Birthday Greeter, and RPS. I feel confident to say I can build a simple web app.
-* Medium. I still feel confident in my ability to debug problems. But need to be able to verbalise my approach, to work better with pair partners, and to be more structured.
-* Yes. This was my primary focus for practicals. I feel I have a good conceptual understanding of servers, clients, and request/response cycles.
-* Medium. Understand conceptually and have worked through on example in Battle. More work required here.
+1. Yes. With Battle, Birthday Greeter, and RPS. I feel confident to say I can build a simple web app.
+2. Medium. I still feel confident in my ability to debug problems. But need to be able to verbalise my approach, to work better with pair partners, and to be more structured.
+3. Yes. This was my primary focus for practicals. I feel I have a good conceptual understanding of servers, clients, and request/response cycles.
+4. Medium. Understand conceptually and have worked through on example in Battle. More work required here.
 
 ### What would you improve going forward?
 
