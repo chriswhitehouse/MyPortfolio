@@ -32,12 +32,7 @@ By the end of the week all developers can:
 * Completed [Birthday Greeter App](https://github.com/chriswhitehouse/birthday_greeter).  A first unguided web application set up and build.
 * Trello Write Up: [How the Web Works](https://trello.com/c/YML20Mqm).
 
-4. **Explain some basic OO principles and tie them to high level concerns (e.g. * ease of change)**
-
-* Completed [OOP_3: Delegate, Delegate, Delegate](https://github.com/chriswhitehouse/oop_3/tree/main); refactoring a 'terrible' todo list code base, into a 'great' code base with separate classes.
-* Trello Write Up: [OO Principles](https://trello.com/c/87dDdAge)
-
-5.  **Explain the MVC pattern**
+4.  **Explain the MVC pattern**
 
 * Worked through establishing a web app development environment with Sinatra and Capybara, and then used TDD to work towards a simple MVC pattern [Battle Challenge](https://github.com/chriswhitehouse/Battle)
 * Trello Write Up of Battle Challenge: [Battle](https://trello.com/c/bZriQ912)
