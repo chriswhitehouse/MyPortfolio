@@ -40,10 +40,10 @@ By the end of the week all developers can:
 
 ### Q1: Did you meet all of your goals to the standard you set at the start of the week?
 
-* Not quite. I have started progress on all the objectives. But Only feel I can demonstrate strong evidence for pair programming.
-* Conceptually I feel TDD is good, but still being hampered by Rspec syntax understanding.
-* I feel pretty comfortable with debugging from prior experience, but have very weak evidence to demonstrate ability so far at Makers - perhaps should have spend a bit more time on this and less on TDD.
-* For OOD I feel I have made sufficient progress and for week 1.
+1. Not quite. I have started progress on all the objectives. But Only feel I can demonstrate strong evidence for pair programming.
+2. Conceptually I feel TDD is good, but still being hampered by Rspec syntax understanding.
+3. I feel pretty comfortable with debugging from prior experience, but have very weak evidence to demonstrate ability so far at Makers - perhaps should have spend a bit more time on this and less on TDD.
+4. For OOD I feel I have made sufficient progress and for week 1.
 
 ### What would you improve going forward?
 
