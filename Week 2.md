@@ -50,10 +50,10 @@ By the end of the week all developers can:
 
 ### Q1: Did you meet all of your goals to the standard you set at the start of the week?
 
-* Close. I would say I did well at Mocking, and recapping Week 1 learnings. And the Oystercard challenge generally went well with TDD, Pairing, Debugging, OO and splitting classes.
-* Ideally I would have had chance to do a better code review at the beginning of the week. But will get to revisit this after every weekend challenge, so plenty of chance to practice.
-* Perhaps didn't quite pick the right practical for working on OO Principles. Perhaps should have picked one of the harder practicals e.g. polymorphism.
-* Splitting classes is still tough, but getting better with structured planning, TDD development of new class, and use of mocking to manage the  dependencies.
+1. Close. I would say I did well at Mocking, and recapping Week 1 learnings. And the Oystercard challenge generally went well with TDD, Pairing, Debugging, OO and splitting classes.
+2. Ideally I would have had chance to do a better code review at the beginning of the week. But will get to revisit this after every weekend challenge, so plenty of chance to practice.
+3. Perhaps didn't quite pick the right practical for working on OO Principles. Perhaps should have picked one of the harder practicals e.g. polymorphism.
+4. Splitting classes is still tough, but getting better with structured planning, TDD development of new class, and use of mocking to manage the  dependencies.
 
 ### What would you improve going forward?
 
