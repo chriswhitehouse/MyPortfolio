@@ -18,6 +18,8 @@ By the end of the week all developers can:
 
 * Worked through establishing a web app development environment with Sinatra and Capybara, and then used TDD to work towards a simple MVC pattern [Battle Challenge](https://github.com/chriswhitehouse/Battle)
 * Trello Write Up of Battle Challenge: [Battle](https://trello.com/c/bZriQ912)
+* **Unguided** work through setting up a web app development environment with Sinatra and Capybara, and then used TDD to work towards a simple MVC pattern [RPS Challenge](https://github.com/chriswhitehouse/rps-challenge)
+* Trello Write Up of RPS Challenge: [RPS](https://trello.com/c/Dfe2j4LV)
 
 2. **Follow an effective debugging process for web applications**
 
@@ -36,6 +38,8 @@ By the end of the week all developers can:
 
 * Worked through establishing a web app development environment with Sinatra and Capybara, and then used TDD to work towards a simple MVC pattern [Battle Challenge](https://github.com/chriswhitehouse/Battle)
 * Trello Write Up of Battle Challenge: [Battle](https://trello.com/c/bZriQ912)
+* **Unguided** work through setting up a web app development environment with Sinatra and Capybara, and then used TDD to work towards a simple MVC pattern [RPS Challenge](https://github.com/chriswhitehouse/rps-challenge)
+* Trello Write Up of RPS Challenge: [RPS](https://trello.com/c/Dfe2j4LV)
 
 ## Reflection
 
@@ -44,7 +48,7 @@ By the end of the week all developers can:
 1. Yes. With Battle, Birthday Greeter, and RPS. I feel confident to say I can build a simple web app.
 2. Medium. I still feel confident in my ability to debug problems. But need to be able to verbalise my approach, to work better with pair partners, and to be more structured.
 3. Yes. This was my primary focus for practicals. I feel I have a good conceptual understanding of servers, clients, and request/response cycles.
-4. Medium. Understand conceptually and have worked through on example in Battle. More work required here.
+4. Medium. Understand conceptually and have worked through on example in Battle, and RPS challenges. More work required here.
 
 ### What would you improve going forward?
 
