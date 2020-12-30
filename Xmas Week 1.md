@@ -6,6 +6,7 @@ Reinforce Learning by revisiting Week 1 and Week 2 Challenges.
 
 1. Re-do Boris Bike Challenge
 2. Complete Oystercard Challenge
+3. Read up on Extreme Programming
 
 ### Evidence:
 1. **Re-do Boris Bike Challenge:**
@@ -16,6 +17,11 @@ Reinforce Learning by revisiting Week 1 and Week 2 Challenges.
 2. **Complete Oystercard Challenge**
 
 * Not completed.
+
+3. **Read up on Extreme Programming**
+
+* Read up [XP](http://www.extremeprogramming.org/)
+* Wrote up trello notes [Extreme Programming](https://trello.com/c/yTfTmXEW)
 
 ## Reflection
 
