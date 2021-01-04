@@ -1,4 +1,4 @@
-# Week 4
+# Xmas Week 1
 ## Weekly Goals
 Reinforce Learning by revisiting Week 1 and Week 2 Challenges.
 
@@ -29,6 +29,7 @@ Reinforce Learning by revisiting Week 1 and Week 2 Challenges.
 
 1. High. Was good to go back an re-complete. Definitely reinforce previous learning, and extending understanding of BDD (with the interplay between User Story->Feature Test->Unit Test->Refactor).
 2. Low. I didn't complete. But can do next week.
+3. High. Read thoroughly and wrote up notes in trello.
 
 
 ### What would you improve going forward?
