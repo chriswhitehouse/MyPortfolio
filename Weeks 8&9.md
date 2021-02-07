@@ -10,7 +10,7 @@
 ### Evidence:
 1. **Complete Acebook challenge:**
 
-* Built a simple Rails and React 'facebook' application as part of a team [Notes App Challenge](https://github.com/sujee09/acebook-akers-cademy)
+* Built a simple Rails and React 'facebook' application as part of a team [Acebook Challenge](https://github.com/sujee09/acebook-akers-cademy)
 * Trello Board [Acebook_Akers_Cademy](https://trello.com/b/aoRRHBFY/acebookakerscademy)
 * Presentation [Acebook](https://docs.google.com/presentation/d/1hnac1VmJ78h0zZlWT8KqGQdtyhto6FOcEFZhNdxePb8/edit?usp=sharing)
 * Deployed Demo [Acebook](https://acebook-akers-cademy.herokuapp.com/)
