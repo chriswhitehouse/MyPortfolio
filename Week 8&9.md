@@ -26,7 +26,7 @@
 
 ### Q1: Did you meet all of your goals to the standard you set at the start of the week?
 
-1. High. Enjoyed woorking in a team. on the Acebook challenge. We dissected the problem well, and adapted to changing client requirements well. Two day sprint cycles worked well, with estimation, sprint planning and retros. And daily standups and reviews.
+1. High. Enjoyed working in a team. on the Acebook challenge. We dissected the problem well, and adapted to changing client requirements well. Two day sprint cycles worked well, with estimation, sprint planning and retros. And daily stand ups and reviews.
 2. High. Instagram challenge went well, after an initially painful set up process. Was pleased with the styling of my finished project.
 
 
